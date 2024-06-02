@@ -1,4 +1,8 @@
-## Hai 👋 saya Bagas Mahardika Budiharto
+## Hai 👋 Nama Saya Bagas Mahardika Budiharto
+
+Hello! My name is Bagas Mahardika Budiharto, usually called Bagas. I was born in Karanganyar Regency, Central Java, Indonesia. I am a students at SMK N 2 Karanganyar majoring in Software Engineering.
+
+I am 16 years old, an enthusiastic individual exploring the realms of technology, with a specific interest in software development.
 
 <!--
 **BagasMB/BagasMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
