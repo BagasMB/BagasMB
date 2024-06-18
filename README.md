@@ -2,7 +2,6 @@
 Hello! My name is Bagas Mahardika Budiharto, usually called Bagas. I was born in Karanganyar Regency, Central Java, Indonesia. I am a students at SMK N 2 Karanganyar majoring in Software Engineering. I am 16 years old, an enthusiastic individual exploring the realms of technology, with a specific interest in software development.
 <br>
 <br>
-[![](https://visitcount.itsvg.in/api?id=bagasmb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bgsmhrdkabdhrto_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagas-mahardika-budiharto) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bgsmhrdka_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bgsmhrdka) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Bgsmhrdka_) 
