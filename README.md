@@ -1,5 +1,5 @@
 ## 👋 About Me:
-Hello! My name is Bagas Mahardika Budiharto, usually called Bagas. I was born in Karanganyar Regency, Central Java, Indonesia. I am a students at SMK N 2 Karanganyar majoring in Software Engineering. I am 16 years old, an enthusiastic individual exploring the realms of technology, with a specific interest in software development.
+Hello! My name is Bagas Mahardika Budiharto, usually called Bagas. I was born in Karanganyar Regency, Central Java, Indonesia. I am a students at SMK N 2 Karanganyar majoring in Software Engineering. I am 17 years old, an enthusiastic individual exploring the realms of technology, with a specific interest in software development.
 <br>
 <br>
 
