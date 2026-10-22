@@ -1,5 +1,9 @@
+<h1 align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Gabarito&weight=800&size=32&pause=1000&width=550&lines=Hi+%F0%9F%91%8B+I%60m+Bagas+Mahardika+Budiharto;Welcome+to+My+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
 ## 👋 About Me:
-Hello! My name is Bagas Mahardika Budiharto, usually called Bagas. I was born and live in Karanganyar Regency, Central Java, Indonesia. Graduated from SMKN 2 Karanganyar majoring in Software Engineering. I am 18 years old, an enthusiastic individual exploring the realms of technology, with a specific interest in software development.
+Hello! My name is Bagas Mahardika Budiharto, usually called Bagas. I was born and live in Karanganyar Regency, Central Java, Indonesia. Graduated from SMKN 2 Karanganyar majoring in Software Engineering. I am 19 years old, an enthusiastic individual exploring the realms of technology, with a specific interest in software development.
 <br>
 <br>
 
@@ -10,3 +14,9 @@ Hello! My name is Bagas Mahardika Budiharto, usually called Bagas. I was born an
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
